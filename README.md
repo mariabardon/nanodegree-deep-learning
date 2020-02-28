@@ -9,4 +9,4 @@ If you have docker installed, just create a new enviroment with the command:
 "conda env create -f environment.yaml"
 
 to remove enviroment use command:
-"conda remove -n <name-of-environment> --all"
+"conda remove -n deep-learning --all"
