@@ -1,8 +1,7 @@
 ## Project Overview
 
-This is the second project that I did for the Udacity Deep Learning Nano degree.
+The end product of this work is an application that, given an image of a dog, it estimates the dog's breed. If given an image of a human, the application will identify the resembling dog breed. It uses different models to, first, classify the image as either dog or human image, and then to either look for the breed or the resemblance. 
 
-In this project, I learned how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, my algorithm got to identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
 
 
